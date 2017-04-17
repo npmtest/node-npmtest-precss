@@ -1,0 +1,80 @@
+<svg height="1230" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1230" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ precss@1.4.0 </tspan>
+<tspan x="10" y="90">  ├─┬ postcss@5.2.17 </tspan>
+<tspan x="10" y="106">  │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="122">  │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="138">  │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="154">  │ │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="170">  │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="186">  │ │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="202">  │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="218">  │ ├── js-base64@2.1.9 </tspan>
+<tspan x="10" y="234">  │ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="250">  │ └─┬ supports-color@3.2.3 </tspan>
+<tspan x="10" y="266">  │   └── has-flag@1.0.0 </tspan>
+<tspan x="10" y="282">  ├── postcss-advanced-variables@1.2.2 </tspan>
+<tspan x="10" y="298">  ├── postcss-atroot@0.1.3 </tspan>
+<tspan x="10" y="314">  ├─┬ postcss-color-function@2.0.1 </tspan>
+<tspan x="10" y="330">  │ ├─┬ css-color-function@1.3.0 </tspan>
+<tspan x="10" y="346">  │ │ ├── balanced-match@0.1.0 </tspan>
+<tspan x="10" y="362">  │ │ ├─┬ color@0.11.4 </tspan>
+<tspan x="10" y="378">  │ │ │ ├── clone@1.0.2 </tspan>
+<tspan x="10" y="394">  │ │ │ ├─┬ color-convert@1.9.0 </tspan>
+<tspan x="10" y="410">  │ │ │ │ └── color-name@1.1.2 </tspan>
+<tspan x="10" y="426">  │ │ │ └── color-string@0.3.0 </tspan>
+<tspan x="10" y="442">  │ │ ├── debug@0.7.4 </tspan>
+<tspan x="10" y="458">  │ │ └── rgb@0.1.0 </tspan>
+<tspan x="10" y="474">  │ ├── postcss-message-helpers@2.0.0 </tspan>
+<tspan x="10" y="490">  │ └── postcss-value-parser@3.3.0 </tspan>
+<tspan x="10" y="506">  ├── postcss-custom-media@5.0.1 </tspan>
+<tspan x="10" y="522">  ├─┬ postcss-custom-properties@5.0.2 </tspan>
+<tspan x="10" y="538">  │ └── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="554">  ├─┬ postcss-custom-selectors@3.0.0 </tspan>
+<tspan x="10" y="570">  │ └── balanced-match@0.2.1 </tspan>
+<tspan x="10" y="586">  ├── postcss-extend@1.0.5 </tspan>
+<tspan x="10" y="602">  ├── postcss-media-minmax@2.1.2 </tspan>
+<tspan x="10" y="618">  ├─┬ postcss-mixins@2.1.1 </tspan>
+<tspan x="10" y="634">  │ ├─┬ globby@3.0.1 </tspan>
+<tspan x="10" y="650">  │ │ ├─┬ array-union@1.0.2 </tspan>
+<tspan x="10" y="666">  │ │ │ └── array-uniq@1.0.3 </tspan>
+<tspan x="10" y="682">  │ │ ├── arrify@1.0.1 </tspan>
+<tspan x="10" y="698">  │ │ ├─┬ glob@5.0.15 </tspan>
+<tspan x="10" y="714">  │ │ │ ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="730">  │ │ │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="746">  │ │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="762">  │ │ │ ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="778">  │ │ │ │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="794">  │ │ │ │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="810">  │ │ │ │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="826">  │ │ │ └── once@1.4.0 </tspan>
+<tspan x="10" y="842">  │ │ ├── pify@2.3.0 </tspan>
+<tspan x="10" y="858">  │ │ └─┬ pinkie-promise@1.0.0 </tspan>
+<tspan x="10" y="874">  │ │   └── pinkie@1.0.0 </tspan>
+<tspan x="10" y="890">  │ └── postcss-simple-vars@1.2.0 </tspan>
+<tspan x="10" y="906">  ├── postcss-nested@1.0.1 </tspan>
+<tspan x="10" y="922">  ├── postcss-nesting@2.3.1 </tspan>
+<tspan x="10" y="938">  ├─┬ postcss-partial-import@1.3.0 </tspan>
+<tspan x="10" y="954">  │ ├─┬ fs-extra@0.24.0 </tspan>
+<tspan x="10" y="970">  │ │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="986">  │ │ ├── jsonfile@2.4.0 </tspan>
+<tspan x="10" y="1002">  │ │ ├── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="1018">  │ │ └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="1034">  │ │   └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="1050">  │ │     └── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="1066">  │ ├─┬ fs-promise@0.3.1 </tspan>
+<tspan x="10" y="1082">  │ │ └── any-promise@0.1.0 </tspan>
+<tspan x="10" y="1098">  │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="1114">  │ └── string-hash@1.1.3 </tspan>
+<tspan x="10" y="1130">  ├─┬ postcss-property-lookup@1.2.1 </tspan>
+<tspan x="10" y="1146">  │ └── tcomb@2.7.0 </tspan>
+<tspan x="10" y="1162">  ├─┬ postcss-selector-matches@2.0.5 </tspan>
+<tspan x="10" y="1178">  │ └── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="1194">  └─┬ postcss-selector-not@2.0.0 </tspan>
+<tspan x="10" y="1210">    └── balanced-match@0.2.1</tspan>
+</text>
+</svg>
