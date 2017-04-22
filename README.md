@@ -1,4 +1,7 @@
-# test coverage for  [precss (v1.4.0)](https://github.com/jonathantneal/precss)  [![npm package](https://img.shields.io/npm/v/npmtest-precss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-precss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-precss.svg)](https://travis-ci.org/npmtest/node-npmtest-precss)
+# npmtest-precss
+
+#### basic test-coverage for  [precss (v1.4.0)](https://github.com/jonathantneal/precss)  [![npm package](https://img.shields.io/npm/v/npmtest-precss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-precss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-precss.svg)](https://travis-ci.org/npmtest/node-npmtest-precss)
+
 #### Use Sass-like markup in your CSS
 
 [![NPM](https://nodei.co/npm/precss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/precss)
@@ -109,7 +112,8 @@
         "lint": "eslint . --ignore-path .gitignore",
         "test": "npm run lint && npm run fixtures"
     },
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
